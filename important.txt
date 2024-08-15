@@ -3,6 +3,6 @@ conda create -p venv python==3.12
 
 
 
-
+https://www.youtube.com/watch?v=LOUaom9HZIg
 
 
