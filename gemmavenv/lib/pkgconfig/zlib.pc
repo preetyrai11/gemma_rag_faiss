@@ -1,0 +1,13 @@
+prefix=/Users/preetyrai/Gemma_RAG/gemma-rag/gemmavenv
+exec_prefix=/Users/preetyrai/Gemma_RAG/gemma-rag/gemmavenv
+libdir=/Users/preetyrai/Gemma_RAG/gemma-rag/gemmavenv/lib
+sharedlibdir=/Users/preetyrai/Gemma_RAG/gemma-rag/gemmavenv/lib
+includedir=/Users/preetyrai/Gemma_RAG/gemma-rag/gemmavenv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
