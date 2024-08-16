@@ -46,8 +46,6 @@ def vector_embedding():
 
 
 
-
-
 prompt1=st.text_input("Enter Your Question From Doduments")
 
 
